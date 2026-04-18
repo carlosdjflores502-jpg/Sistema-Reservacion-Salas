@@ -31,6 +31,11 @@ Este repositorio contiene:
 - DERCAS
 - Caso de uso general del sistema
 - Evidencia del trabajo realizado en Git y GitHub
+## Avance del proyecto por semanas
+- Semana 1: Introducción y conceptos generales
+- Semana 2: Metodología de desarrollo
+- Semana 3: Ingeniería de requerimientos
+- Consolidado a Semana 3
 
 ## Integrantes del equipo
 - Max Arnaldo Morataya López 1390 15 24415
